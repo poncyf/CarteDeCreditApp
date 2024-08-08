@@ -25,7 +25,7 @@ Le programme offre une interface utilisateur en ligne de commande pour saisir le
 ## Structure du Projet
 
 - `src` : Contient le code source Java.
-  - `Main.java` : Classe principale contenant la méthode `main` pour l'exécution du programme.
+  - `App.java` : Classe principale contenant la méthode `main` pour l'exécution du programme.
   - `CreditCardManager.java` : Classe responsable de la gestion des données et des calculs liés aux cartes de crédit.
   - `InputUtils.java` : Classe utilitaire pour la gestion des entrées utilisateur et le traitement des erreurs.
 
